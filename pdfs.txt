@@ -1,0 +1,2 @@
+https://arxiv.org/pdf/1008.3926.pdf -- 21
+https://www.pnas.org/content/pnas/103/23/8577.full.pdf -- 22  https://github.com/zhiyzuo/python-modularity-maximization.git
